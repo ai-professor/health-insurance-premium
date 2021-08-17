@@ -16,7 +16,7 @@ insurance policy rather han the ineffective part.
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
   * [Technoloies Used](#Technologies-Used)
-  * [Bug / Feature Request](#Bug-/-Feature-Request)
+  * [Bug](#Bug)
   
   
 ## Demo
@@ -106,7 +106,7 @@ The insurance.csv dataset contains 1338 observations (rows) and 7 features (colu
 **Develop and Deploy the Web app Using Streamlit,**
 Streamlit lets you turn data scripts into sharable web apps in minutes, not weeks. It's all Python, open-source, and free! And once you've created an app you can use our free sharing platform to deploy, manage, and share your app with the world.
 ![streamlit](https://user-images.githubusercontent.com/77889053/129688631-b0b583ea-c7b3-40f7-910a-49feb1572077.png)
-## Bug / Feature Request
+## Bug
 
 If you face any bug/issues (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/ai-professor/health-insurance-premium) here by including your search query and the expected result
 
