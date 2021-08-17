@@ -15,8 +15,8 @@ insurance policy rather han the ineffective part.
   * [Environment Setup](#Environment)
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
-  * [Technoloies Used](#Technologies Used)
-  * [Bug / Feature Request](#Bug / Feature Request)
+  * [Technoloies Used](#TechnologiesUsed)
+  * [Bug / Feature Request](#Bug/FeatureRequest)
   
   
 ## Demo
